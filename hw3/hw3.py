@@ -14,7 +14,7 @@ def get_covariance(dataset):
     x = dataset
     np.dot(x, np, transpose(x))
     for (int i = 0; i < ) {
-        内核和INTP极为相近，我认为最好的办法其实
+        
     }
     return x
     return x
